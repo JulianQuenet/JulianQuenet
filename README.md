@@ -1,6 +1,5 @@
 ### Hi there 👋
 # JulianQuenet
-Personal ReadMe file:
 Hi my name is Julian, I am an aspiring software developer currently studying to join the industry, I really enjoy coding and any type of 
 programming in general. 
 
