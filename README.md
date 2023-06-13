@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julian Quenet</h1>
 <h3 align="center">An aspiring Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=julianquenet&label=Profile%20views&color=0e75b6&style=flat" alt="julianquenet" /> </p>
 - 🔭 I’m currently working on **any projects I can do in my free time**
 
 - 🌱 I’m currently learning **Lit, React, Svelte, Vue**
