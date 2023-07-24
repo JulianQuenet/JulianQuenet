@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Julian Quenet</h1>
-<h3 align="left">An aspiring Software Developer</h3>
+<h1 align="center">Hi 👋, I'm Julian Quenet
+  <br>
+  An aspiring Software Developer
+</h1>
+
 
 - 🔭 I’m currently working on **any projects I can do in my free time**
 
