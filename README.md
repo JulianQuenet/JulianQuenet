@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **any projects I can do in my free time**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JulianQuenet](https://github.com/JulianQuenet)
+- 👨‍💻 Currently learning react three fibre and three.js 
 
 - 📫 How to reach me **julianquenet8@gmail.com**
 
