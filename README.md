@@ -8,7 +8,6 @@
 
 - 👨‍💻 Currently learning react three fibre and three.js 
 
-- 📫 How to reach me **julianquenet8@gmail.com**
 
 
 <h3 align="center">Languages and Tools:</h3>
