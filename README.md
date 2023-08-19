@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **any projects I can do in my free time**
 
-- 👨‍💻 Currently learning react three fibre and three.js 
+- 👨‍💻 Currently learning react three fibre, three.js and rapier 
 
 
 
