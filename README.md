@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **any projects I can do in my free time**
 
-- 👨‍💻 Currently learning C#
+- 👨‍💻 Currently Working on the 7dfps game jam.
 
 
 
