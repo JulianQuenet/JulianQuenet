@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julian Quenet
   <br>
-  An aspiring Software Developer
+  Fullstack Software Developer
 </h1>
 
 
